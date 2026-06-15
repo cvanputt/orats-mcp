@@ -20,7 +20,7 @@ Open `~/Library/Application Support/Claude/claude_desktop_config.json` and add t
   "mcpServers": {
     "orats": {
       "command": "node",
-      "args": ["/Users/<your-username>/orats-mcp/server.js"],
+      "args": ["/path/to/orats-mcp/server.js"],
       "env": {
         "ORATS_TOKEN": "your_token_here"
       }
