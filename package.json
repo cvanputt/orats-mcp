@@ -1,0 +1,13 @@
+{
+  "name": "orats-mcp",
+  "version": "1.0.0",
+  "description": "MCP server wrapping the ORATS CLI for Cowork",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0"
+  }
+}
