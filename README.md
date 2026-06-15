@@ -1,6 +1,6 @@
 # orats-mcp
 
-MCP server that exposes ORATS options analytics to Claude. Calls `api.orats.io` directly via fetch — no CLI dependency.
+MCP server that exposes ORATS options analytics to any AI interface. Calls `api.orats.io` directly via fetch — no CLI dependency.
 
 ## Setup
 
